@@ -47,6 +47,14 @@ The files of our webpage are huge therefore we are giving the drive link, Please
 
 https://drive.google.com/drive/folders/11U0Y0paDK4NpJ8B7qCP_8984ZdAJJbf0?usp=sharing
 
+The proposed system is a novel waste management system for Smart Cities. IoT components like sensors, detectors, and actuators are incorporated into the physical subsystem. The system is integrated by using Mini Display, smart barcode scanning camera and BIN OS with the help of arduino and raspberry pi to iterate with the online database. The web application acts as a cloud interface that allows communication between the smartbin network and the client- user network. 
+
+
+Reward points act as the motivating point for the users and the exchange rate for these reward points are generalized based on the agreement with the client companies. The product proves to be an effective solution for major companies producing food and beverages that have high carbon footprint 
+
+
+The project was based on an agile software development cycle. Where me and my team were working simultaneously on several stages of the project rather than a conventional waterfall model. We have initially agreed on the requirements of the project model that we wanted to build and the project blueprint was designed into several iterations of the project. Initially three of us divided the work based on the skill we have. Later we had the unit tests prepared for our individual stages, then integration tests. Once everything was working, we worked on the different stages on the iterations simultaneously to have the project work seamlessly. This helped us to build the project in a limited time. For my later projects I also understood how to use docker and kubernetes to enhance this sdlc of my projects.
+
 ![Flowchart](Flowdiagram.png)
 
 # Declaration Of Previous Work
